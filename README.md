@@ -1,0 +1,1 @@
+a *cursed* sigreturn-oriented programming (srop) based sleep obfuscation for linux that encrypts PT_LOAD segments + heap
